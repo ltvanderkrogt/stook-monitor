@@ -8,7 +8,7 @@ Deze monitor maakt gebruik van de criteria gesteld in dit document: [Gezondheids
 Belangrijkste regel: geen hout stoken als de windsnelheid minder dan 12 km/h is. 
 Verder wordt een kleurentabel gebruikt voor de luchtkwaliteit. 
 
-![luchtkwaliteit index](https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/Luchtkwaliteit.jpg)
+![luchtkwaliteit index](https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/Luchtkwaliteit.jpg| width=100)
 
 De stookmonitor maakt gebruik van;
 * Wemos D1 mini als esphome device
