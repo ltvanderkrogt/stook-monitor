@@ -3,10 +3,11 @@ Per oktober 2024 is het beleid voor het stoken van haardhout aangepast. een onde
 
 ![de stookmonitor]([http://url/to/img.png](https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/stookmonitor.jpg))
 
-Deze monitor maakt gebruik van de criteria gesteld in dit document:[Gezondheids- en hindereffecten door houtkachels van particulieren](https://stab.nl/wp-content/uploads/2019/11/STAB-Kennisdocument-Houtstook-september-2019.pdf)
+Deze monitor maakt gebruik van de criteria gesteld in dit document: [Gezondheids- en hindereffecten door houtkachels van particulieren](https://stab.nl/wp-content/uploads/2019/11/STAB-Kennisdocument-Houtstook-september-2019.pdf)
 
 Belangrijkste regel: geen hout stoken als de windsnelheid minder dan 12 km/h is. 
 Verder wordt een kleurentabel gebruikt voor de luchtkwaliteit. 
+
 ![luchtkwaliteit index](https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/Luchtkwaliteit.jpg)
 
 De stookmonitor maakt gebruik van;
