@@ -1,6 +1,8 @@
 # stook-monitor esphome
 Per oktober 2024 is het beleid voor het stoken van haardhout aangepast. een onderzoek wijst uit dat niet de mate van fijnstof zorgt voor klachten maar de windsnelheid tijdens het stoken. Deze monitor maakt gebruik van een al bestaande eigen fijnstof sensor en de windsnelheid uit de regio. 
 
+De monitor brandt continue in de kleur van de fijnstof. Als de windsnelheid beneden de 12 km/uur komt, knipprt de LED om de 10 seconde. 
+
 ![de stookmonitor](https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/stookmonitor.jpg))
 
 Deze monitor maakt gebruik van de criteria gesteld in dit document: [Gezondheids- en hindereffecten door houtkachels van particulieren](https://stab.nl/wp-content/uploads/2019/11/STAB-Kennisdocument-Houtstook-september-2019.pdf)
