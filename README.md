@@ -3,7 +3,7 @@ Per oktober 2024 is het beleid voor het stoken van haardhout aangepast. een onde
 
 De monitor brandt continue in de kleur van de fijnstof. Als de windsnelheid beneden de 12 km/uur komt, knipprt de LED om de 10 seconde. 
 
-![de stookmonitor](https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/stookmonitor.jpg)
+<img src="https://github.com/ltvanderkrogt/stook-monitor/blob/d3214b5844a2931793106cac0d5dec4ee69dac7f/stookmonitor.jpg" width=50% height=50%>
 
 Deze monitor maakt gebruik van de criteria gesteld in dit document: [Gezondheids- en hindereffecten door houtkachels van particulieren](https://stab.nl/wp-content/uploads/2019/11/STAB-Kennisdocument-Houtstook-september-2019.pdf)
 
